@@ -1,0 +1,2494 @@
+fileFormatVersion: 2
+guid: f1aba80a82ef31f4683a1bd5a87ee03f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ce0dcd9e279e74c94b895b9c880f3a
+      internalID: -252415211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b90626d1d41af49987d9ea00e5f372
+      internalID: 1657811561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b61dcba52c15474f988cbc16e31bc7d
+      internalID: 992595370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9284ae51c62824e80750cd2157c02d
+      internalID: 2076587371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ccf7af61343324584df49ec42528be
+      internalID: 658935829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa4ed5128dd20a44877550ec32afdc1
+      internalID: 39143947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63806b86892d45e4b815f9244141b9f0
+      internalID: -1605667147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99e4c86a3e3297429462c1b4e77db4b
+      internalID: 1314551283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b58a1e0a0fe9ee40b90e83373803585
+      internalID: -157366329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de815f0455d43d040ad7c19c5c2b5ee3
+      internalID: 1515858393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1151
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7f52531e919d045a309aed57b639b4
+      internalID: 1688321957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785db4838c2bec9438ecf018b81344f2
+      internalID: 763116911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1023
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34442fcb8ceb542448c8e355f6c78e5d
+      internalID: 1805204692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1023
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b0eb7b8b663554590d662dc1d3f603
+      internalID: 220121493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1023
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec15e316ae606dc40822e3662cb2b133
+      internalID: -2006843458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1023
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f643c4f90eb9740bc65f1660693b37
+      internalID: 1813654633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1023
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce84984376f3f642b32d420e79359af
+      internalID: -296722121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1023
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f81fc2022db1749902b865ae64cd4f
+      internalID: 106013500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1023
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6729cb488bd3a46be27349ad685796
+      internalID: -359058958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1023
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16387765b92aaa44b846178d1a538dac
+      internalID: 827320912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1023
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63597f23950f6404a84f5dd39866a254
+      internalID: 1328086772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1023
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627dfbdeaada7674d87b113d483eb034
+      internalID: 2062963617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76e8b466bd5fbc4191f9fdd983b1047
+      internalID: 1913855107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af73f7f79794ed43ab10b1fdf9a41cc
+      internalID: -885693906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c3b8063e2a4724691ea26114d28e8f
+      internalID: 1957370669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393f1251d25292242a64fbae7e47d1d7
+      internalID: 1118020375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d04cd9f2ed0194ba75e56bb879d321
+      internalID: -1999423439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e51f4588fe0ca48b48c7b286ecadb3
+      internalID: -428528597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c33e17b2e704e54c86ac694910f6646
+      internalID: -23891178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_29
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d550857727cb0f4cacf1bc1f1018e5e
+      internalID: 1948062937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_30
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37f9962e00248247bfe9e5e85e7d0be
+      internalID: 1862611431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_31
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51a59cf76a54fb488717a60f478d71f
+      internalID: -1002238177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3237b71a9e6b64095176d71acbb920
+      internalID: -432371613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d407bad7743214948868261edcbc4fa1
+      internalID: 925727371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 767
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83c5a570092be248b3b3d4e41cbd4ad
+      internalID: 1885234128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 767
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b14f1a387997894b8bde5d5069f9073
+      internalID: -1201928799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 767
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2b83e9cb05e864195d7fec06d35731
+      internalID: 78970329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 767
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2451ef99c5cf7e4bb2fa763746b6a3c
+      internalID: 317331202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 767
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c209c9122eebd4392755934c54aa93
+      internalID: 1489553284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 767
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a905ca3bccee46d48983f562488ec5ef
+      internalID: 1657721858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_40
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 767
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e5635f9ed3d1f41bffc8a2eee76215
+      internalID: -1863558021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_41
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 767
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f6b5bbaeb83304bbecfe98b0013dba
+      internalID: 1487152720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_42
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 767
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f987064cf2ef34ca8d04f1988526c7
+      internalID: -2008513792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_43
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 767
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07294ce155e432844b0e330d62905bb9
+      internalID: -565524937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b648e57c790a84a952db7c0a8817a3
+      internalID: 893409721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 639
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1dd9a6fcf25124187e366ce3f4e9c3
+      internalID: -458881576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 639
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1591b3efb44b23141af6bf94c8fb3968
+      internalID: -541815425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 639
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a94eefecc338b54cb6bdeca163a9f1f
+      internalID: 217057916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 639
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d3ce7259f73454784c3831ddc4aa05
+      internalID: -1596551668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 639
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2c2441934e2814f9de513f9f0d4e06
+      internalID: -989774870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_50
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 639
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52e5c6882a180b468ace7e787c1e738
+      internalID: -1796438542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_51
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 639
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb274818cb4cdaa49bfea89e9f80938e
+      internalID: 1225501131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 639
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6fa5dad86c83d489ce57e723abc33a
+      internalID: 1305426123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_53
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 639
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f830b8ec15f6e4a888dc7c3ceeac3d
+      internalID: 1483170652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_54
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 639
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c7b6527db094d4395c72356f668982
+      internalID: -1134410636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15844b59a9497c1468bf5ed3ff24e41c
+      internalID: -223174970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 511
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f91caee18e542649949a6e3874ae8d7
+      internalID: -259181280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 511
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28d8eec3f557c4187dc9ec7aee97d9
+      internalID: 1518594532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 511
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e83e9139a047084c9af5a2923a2c3bb
+      internalID: 123541021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 511
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4469bf4bb8bfaf429553230be2384a6
+      internalID: -658551904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_60
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 511
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c3dd5b87d3ab14ba6e930183f1969e
+      internalID: 207071311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_61
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 511
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7ff87569204e64dbb4a9f7d7465e48
+      internalID: 1926347390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 511
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8d5b8f1f0029c42853d768fbc0e4fc
+      internalID: -1200669839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_63
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 511
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13930b87f958984f8207ec31467c226
+      internalID: 663629604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_64
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 511
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986f33f7a32803446b862eefc30219c3
+      internalID: -784897011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1f9b894cdaf1b42aa2271bc7fe2067
+      internalID: -1904447947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326785b6aaa850847a35e402d3de1176
+      internalID: 397490283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321cd6031ca68e9469cc52280f65df46
+      internalID: -1123940728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef326348ce58654c91906f36570f37d
+      internalID: 702194703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_69
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce80ce2d76d5e694d84555d20da3689f
+      internalID: -570467462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_70
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263200c587b03e640aa7b8e31c27c995
+      internalID: -1025750221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_71
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68c60b82021b394db8d0eda1d5522a5
+      internalID: 1945724084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_72
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7c8df7c5345634a986d38f70682bc7
+      internalID: -1506329155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_73
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c82285acd015cc4e8cdf7da675524a5
+      internalID: 2147004519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_74
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e0e3e96c0b63e4292463be1458148a
+      internalID: -1970169806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951bfd8b495942d49b51a9689b23bdde
+      internalID: -959062867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 255
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf7a3baa4017af42bdcb4e49816e212
+      internalID: 351968773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 255
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1853c848786ab4848a0e361a0eee0b0e
+      internalID: 677794370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 255
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafaaf4a067266d4fad602e47a027489
+      internalID: -714128177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 255
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1041e3aaf2f17ca4b961d3a27e49f416
+      internalID: -935621558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 255
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa8f97fcfe9a344bb30ab3b31166359
+      internalID: 568533616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_81
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 255
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b609596b95ebb214292bc90074fa9350
+      internalID: 419759867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 255
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b7035dd1a60cf4bb97facc20f0d3a3
+      internalID: -1638152626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_83
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 255
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f3d58217ec77243a439614cd9eba4c
+      internalID: -1229813189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_84
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 255
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4777799aad4551240940f8bb0e96286a
+      internalID: -1329053218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575f3ba0d583f684ba075b7f703f32dc
+      internalID: -1029886164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f5563756d40b049b69a12e6428ff4a
+      internalID: 1191849192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_87
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0a3ef49d6f5604ba5899bfa2626d92
+      internalID: 677882942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bcc51f9c56cc34a94108f90a4decdd
+      internalID: -592394092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186eb682a31fa5c40bde654efe31a31b
+      internalID: -661344816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76e34268ce0b1f4ba88bedd92d771b9
+      internalID: -2079088660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_91
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0471fc0d19a55f40ae9c717c6365f20
+      internalID: -2062938501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_92
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0de3e2c7ae5964d866bf5f2dd34044
+      internalID: 1146448893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_93
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa2460fe7cc89a4d85b48f260b671a5
+      internalID: 123506804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_94
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bb6de7c908eff4da98f73c660d4f92
+      internalID: -1361252498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_95
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa1d55ae2b8021439864b965aa854c8
+      internalID: 1122375432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0660491af24d2fe4cb5b3b2de6b6abcc
+      internalID: 225280349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e5fc529b69d4547a07e350a6a43e4b
+      internalID: 1323930746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18dbb7a2f15daa44a2664e15efa107f
+      internalID: 524621905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5964c14d13e9a4e817bcb8b75bbb22
+      internalID: -608393722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7df40c7fce98f43a45207e4d3e3c3c
+      internalID: -614906367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4427fb92ea74f459bb898856f13364
+      internalID: 1115619057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfbc988b87872047b17868c68b777d1
+      internalID: -686663512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_103
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdcef04ea1de5741932b6c00c794e3d
+      internalID: -57747869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761594edc7a10dc4dbfefd2afc4b5741
+      internalID: 1256167201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48541454e74ec684e8b3dc254a3f39fb
+      internalID: -886972680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset for Zabava Final Revision 2_106
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6a1ed294e8a7e4782dedf778694152
+      internalID: -1441264956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tileset for Zabava Final Revision 2_0: -252415211
+      Tileset for Zabava Final Revision 2_1: 1657811561
+      Tileset for Zabava Final Revision 2_10: 1688321957
+      Tileset for Zabava Final Revision 2_100: -614906367
+      Tileset for Zabava Final Revision 2_101: 1115619057
+      Tileset for Zabava Final Revision 2_102: -686663512
+      Tileset for Zabava Final Revision 2_103: -57747869
+      Tileset for Zabava Final Revision 2_104: 1256167201
+      Tileset for Zabava Final Revision 2_105: -886972680
+      Tileset for Zabava Final Revision 2_106: -1441264956
+      Tileset for Zabava Final Revision 2_11: 763116911
+      Tileset for Zabava Final Revision 2_12: 1805204692
+      Tileset for Zabava Final Revision 2_13: 220121493
+      Tileset for Zabava Final Revision 2_14: -2006843458
+      Tileset for Zabava Final Revision 2_15: 1813654633
+      Tileset for Zabava Final Revision 2_16: -296722121
+      Tileset for Zabava Final Revision 2_17: 106013500
+      Tileset for Zabava Final Revision 2_18: -359058958
+      Tileset for Zabava Final Revision 2_19: 827320912
+      Tileset for Zabava Final Revision 2_2: 992595370
+      Tileset for Zabava Final Revision 2_20: 1328086772
+      Tileset for Zabava Final Revision 2_21: 2062963617
+      Tileset for Zabava Final Revision 2_22: 1913855107
+      Tileset for Zabava Final Revision 2_23: -885693906
+      Tileset for Zabava Final Revision 2_24: 1957370669
+      Tileset for Zabava Final Revision 2_25: 1118020375
+      Tileset for Zabava Final Revision 2_26: -1999423439
+      Tileset for Zabava Final Revision 2_27: -428528597
+      Tileset for Zabava Final Revision 2_28: -23891178
+      Tileset for Zabava Final Revision 2_29: 1948062937
+      Tileset for Zabava Final Revision 2_3: 2076587371
+      Tileset for Zabava Final Revision 2_30: 1862611431
+      Tileset for Zabava Final Revision 2_31: -1002238177
+      Tileset for Zabava Final Revision 2_32: -432371613
+      Tileset for Zabava Final Revision 2_33: 925727371
+      Tileset for Zabava Final Revision 2_34: 1885234128
+      Tileset for Zabava Final Revision 2_35: -1201928799
+      Tileset for Zabava Final Revision 2_36: 78970329
+      Tileset for Zabava Final Revision 2_37: 317331202
+      Tileset for Zabava Final Revision 2_38: 1489553284
+      Tileset for Zabava Final Revision 2_39: 1657721858
+      Tileset for Zabava Final Revision 2_4: 658935829
+      Tileset for Zabava Final Revision 2_40: -1863558021
+      Tileset for Zabava Final Revision 2_41: 1487152720
+      Tileset for Zabava Final Revision 2_42: -2008513792
+      Tileset for Zabava Final Revision 2_43: -565524937
+      Tileset for Zabava Final Revision 2_44: 893409721
+      Tileset for Zabava Final Revision 2_45: -458881576
+      Tileset for Zabava Final Revision 2_46: -541815425
+      Tileset for Zabava Final Revision 2_47: 217057916
+      Tileset for Zabava Final Revision 2_48: -1596551668
+      Tileset for Zabava Final Revision 2_49: -989774870
+      Tileset for Zabava Final Revision 2_5: 39143947
+      Tileset for Zabava Final Revision 2_50: -1796438542
+      Tileset for Zabava Final Revision 2_51: 1225501131
+      Tileset for Zabava Final Revision 2_52: 1305426123
+      Tileset for Zabava Final Revision 2_53: 1483170652
+      Tileset for Zabava Final Revision 2_54: -1134410636
+      Tileset for Zabava Final Revision 2_55: -223174970
+      Tileset for Zabava Final Revision 2_56: -259181280
+      Tileset for Zabava Final Revision 2_57: 1518594532
+      Tileset for Zabava Final Revision 2_58: 123541021
+      Tileset for Zabava Final Revision 2_59: -658551904
+      Tileset for Zabava Final Revision 2_6: -1605667147
+      Tileset for Zabava Final Revision 2_60: 207071311
+      Tileset for Zabava Final Revision 2_61: 1926347390
+      Tileset for Zabava Final Revision 2_62: -1200669839
+      Tileset for Zabava Final Revision 2_63: 663629604
+      Tileset for Zabava Final Revision 2_64: -784897011
+      Tileset for Zabava Final Revision 2_65: -1904447947
+      Tileset for Zabava Final Revision 2_66: 397490283
+      Tileset for Zabava Final Revision 2_67: -1123940728
+      Tileset for Zabava Final Revision 2_68: 702194703
+      Tileset for Zabava Final Revision 2_69: -570467462
+      Tileset for Zabava Final Revision 2_7: 1314551283
+      Tileset for Zabava Final Revision 2_70: -1025750221
+      Tileset for Zabava Final Revision 2_71: 1945724084
+      Tileset for Zabava Final Revision 2_72: -1506329155
+      Tileset for Zabava Final Revision 2_73: 2147004519
+      Tileset for Zabava Final Revision 2_74: -1970169806
+      Tileset for Zabava Final Revision 2_75: -959062867
+      Tileset for Zabava Final Revision 2_76: 351968773
+      Tileset for Zabava Final Revision 2_77: 677794370
+      Tileset for Zabava Final Revision 2_78: -714128177
+      Tileset for Zabava Final Revision 2_79: -935621558
+      Tileset for Zabava Final Revision 2_8: -157366329
+      Tileset for Zabava Final Revision 2_80: 568533616
+      Tileset for Zabava Final Revision 2_81: 419759867
+      Tileset for Zabava Final Revision 2_82: -1638152626
+      Tileset for Zabava Final Revision 2_83: -1229813189
+      Tileset for Zabava Final Revision 2_84: -1329053218
+      Tileset for Zabava Final Revision 2_85: -1029886164
+      Tileset for Zabava Final Revision 2_86: 1191849192
+      Tileset for Zabava Final Revision 2_87: 677882942
+      Tileset for Zabava Final Revision 2_88: -592394092
+      Tileset for Zabava Final Revision 2_89: -661344816
+      Tileset for Zabava Final Revision 2_9: 1515858393
+      Tileset for Zabava Final Revision 2_90: -2079088660
+      Tileset for Zabava Final Revision 2_91: -2062938501
+      Tileset for Zabava Final Revision 2_92: 1146448893
+      Tileset for Zabava Final Revision 2_93: 123506804
+      Tileset for Zabava Final Revision 2_94: -1361252498
+      Tileset for Zabava Final Revision 2_95: 1122375432
+      Tileset for Zabava Final Revision 2_96: 225280349
+      Tileset for Zabava Final Revision 2_97: 1323930746
+      Tileset for Zabava Final Revision 2_98: 524621905
+      Tileset for Zabava Final Revision 2_99: -608393722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
